@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:4.0
+KIND:individual
+FN:Zhiyong Wang
+N:Wang;Zhiyong;;;
+ORG:Shanghai Yixu Intelligence Technology Co., Ltd.
+TITLE:Industrial AI Architect
+TEL;TYPE=cell;VALUE=uri:tel:+8618621615472
+EMAIL;TYPE=work:hello@yixuai.cn
+EMAIL;TYPE=pref:starry.wang@gmail.com
+ADR;TYPE=work:;;Building 3, Floor 13, Zone A, No. 2875 Huqingping Highway, Zhaoxiang Town, Qingpu District;Shanghai;;201702;China
+URL:https://yixusmart.cn
+NOTE:Meet at IMTS 2026, McCormick Place, Chicago, September 14-19. Industrial AI for equipment, laser process, and robot vision workflows.
+END:VCARD
